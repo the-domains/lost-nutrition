@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: 'Fuel your carpe diem!'
-datePublished: '2016-04-24T22:58:26.219Z'
-dateModified: '2016-04-24T22:45:07.864Z'
+datePublished: '2016-04-24T23:02:24.890Z'
+dateModified: '2016-04-24T23:02:24.528Z'
 title: ''
 author: []
 authors: []
@@ -15,7 +15,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
+starred: true
 sourcePath: _posts/2016-04-24-lost-nutrition.md
 published: true
 url: lost-nutrition/index.html
