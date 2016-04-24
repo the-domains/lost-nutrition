@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-04-24T22:45:05.349Z'
-dateModified: '2016-04-24T22:43:04.565Z'
+description: 'Fuel your carpe diem!'
+datePublished: '2016-04-24T22:58:26.219Z'
+dateModified: '2016-04-24T22:45:07.864Z'
 title: ''
 author: []
 authors: []
@@ -22,4 +22,5 @@ url: lost-nutrition/index.html
 _type: Article
 
 ---
+Fuel your carpe diem!
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/23285436-268b-4f3d-a02a-2d80d462257f.jpg)
