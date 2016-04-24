@@ -5,10 +5,12 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Fuel your carpe diem!'
-datePublished: '2016-04-24T23:02:24.890Z'
-dateModified: '2016-04-24T23:02:24.528Z'
+datePublished: '2016-04-24T23:10:37.210Z'
+dateModified: '2016-04-24T23:03:45.751Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-24-lost-nutrition.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: true
-sourcePath: _posts/2016-04-24-lost-nutrition.md
-published: true
 url: lost-nutrition/index.html
 _type: Article
 
