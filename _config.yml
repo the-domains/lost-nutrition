@@ -1,7 +1,7 @@
 name: Lost Nutrition
 favicon: null
 layout_spectrum: 0.11260061780922115
-typography_spectrum: 0.27611321001313627
+typography_spectrum: 0.75542
 title: 'Fuel your carpe diem!'
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#c7d3a7'
     - '#f78d27'
   brandStrength: 0.5
-  lightness: 0.8093568254262209
+  lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.9329319470562041
 purpose: []
